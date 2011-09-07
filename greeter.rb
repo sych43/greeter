@@ -34,7 +34,7 @@ class Customer
 include  GreetingAndFarewell
 
 def mame 
-@name ||="person who will provide me with a good or service"
+@name ||="person who will provide me with a good or servicepgit push origin"
 end
 end
 
